@@ -1,0 +1,2 @@
+C:/Users/musta/StudioProjects/nti_linkwithapi_task/android/app/.cxx/Debug/s1q653f5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/musta/StudioProjects/nti_linkwithapi_task/android/app/.cxx/Debug/s1q653f5/x86_64/CMakeFiles/rebuild_cache.dir
